@@ -1,0 +1,29 @@
+You are working with an Angular starter template for building modern web applications.
+
+This template includes:
+- Angular CLI configuration (angular.json)
+- TypeScript support throughout the project
+- Modern Angular features and architecture
+- Build and development tooling
+
+Key features:
+- Component-based architecture with Angular
+- TypeScript for enhanced development experience
+- Reactive programming with RxJS
+- Dependency injection system
+- Angular CLI for scaffolding and builds
+- Hot reload development server
+
+Project structure:
+- src/: Main application source code
+- angular.json: Angular CLI workspace configuration
+- tsconfig.json: TypeScript configuration
+- package.json: Dependencies and npm scripts
+
+To get started:
+1. Install dependencies: npm install
+2. Start development server: ng serve or npm start
+3. Build for production: ng build or npm run build
+4. Run tests: ng test
+
+This template provides a solid foundation for building scalable Angular applications with best practices and modern tooling.
